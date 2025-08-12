@@ -5,3 +5,4 @@ I am a Information Systems (Intelligent Systems Engineering) Undergraduate at Ui
 Check me out elsewhere:
 
 - [LinkedIn](www.linkedin.com/in/alifasyraf461)
+- [LeetCode](www.leetcode.com/u/Alifasyraf461/)
