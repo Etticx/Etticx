@@ -12,7 +12,7 @@
 ### what I'm about
 
 -  Studying Intelligent Systems Engineering, previously interned as a **Game Developer & Business Analyst** at [PETRONAS](https://petronas.com/)
--  2025 Scholar and 2026 Global #Mbassador at [Maybank](https://www.maybank.com/en/index.page)
+-  **2025 Scholar** and **2026 Global #Mbassador** at [Maybank](https://www.maybank.com/en/index.page)
 
 ### currently building
 
