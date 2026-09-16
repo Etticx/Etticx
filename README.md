@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Alif</h1>
+<h1 align="center">Alif Asyraf</h1>
 <p align="center">Information Systems (Intelligent Systems Engineering) undergrad @ UiTM Shah Alam</p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <!-- ===== terminal boot animation ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Machine+Learning;LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;LLMs;AI+Agents;" alt="Typing SVG" />
 </p>
 
 
