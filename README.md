@@ -21,7 +21,7 @@
 
 ### currently building
 
-- SME Health Indicator and Evaluator for Loan Decision (SHIELD) that utilises Extreme Gradient Boosting (XGBoost) with SHapley Additive exPlanation (SHAP) for interpretability
+- SME Health Indicator and Evaluator for Loan Decision (SHIELD) that utilises Random Forest with SHapley Additive exPlanation (SHAP) for interpretability
 
 ### stack I actually use
 
