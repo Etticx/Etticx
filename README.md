@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### stats, because why not
+### stats, because why not^^
 
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Etticx&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"><i>currently probably fixing a bug I introduced ten minutes ago</i></p>
 
