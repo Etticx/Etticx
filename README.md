@@ -22,6 +22,7 @@
 ### currently building
 
 - SME Health Indicator and Evaluator for Loan Decision (SHIELD) that utilises Random Forest with SHapley Additive exPlanation (SHAP) translated with LLM for interpretability
+- Computer Vision app that identifies specific invasive plants and connect photo reports to ecological review, work orders, and restoration follow-Up, this focuses primarily on township areas.
 
 ### stack I actually use
 
