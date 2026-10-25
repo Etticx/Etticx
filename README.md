@@ -59,3 +59,11 @@
     />
   </picture>
 </p>
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="My GitHub contributions in a 3D night rainbow skyline"
+    width="100%"
+  />
+</p>
