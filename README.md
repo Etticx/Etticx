@@ -1,5 +1,11 @@
-<h1 align="center">Alif Asyraf</h1>
-<p align="center">Information Systems (Intelligent Systems Engineering) undergrad @ UiTM Shah Alam</p>
+<p align="center">
+  <a href="https://github.com/Etticx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/dark.svg" />
+      <img src="./profile/light.svg" width="100%" alt="Alif Asyraf — terminal profile with my ASCII avatar, UiTM and AI/ML background, contact details, and public GitHub stats" />
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/alifasyraf461"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -7,10 +13,6 @@
   <a href="https://leetcode.com/u/Alifasyraf461"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<!-- ===== terminal boot animation ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;LLMs;AI+Agents;" alt="Typing SVG" />
-</p>
 
 
 
@@ -67,3 +69,4 @@
     width="100%"
   />
 </p>
+

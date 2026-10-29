@@ -1,0 +1,65 @@
+name: Update terminal profile
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'profile/config.json'
+      - 'profile/avatar.txt'
+      - 'scripts/update_profile.py'
+      - 'tests/test_profile.py'
+      - '.github/workflows/terminal-profile.yml'
+  pull_request:
+    paths:
+      - 'profile/**'
+      - 'scripts/update_profile.py'
+      - 'tests/test_profile.py'
+      - '.github/workflows/terminal-profile.yml'
+  schedule:
+    - cron: '41 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: terminal-profile-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - name: Verify generator
+        run: |
+          python3 -m unittest discover -s tests -v
+          python3 scripts/update_profile.py --offline
+
+  update:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - name: Refresh public statistics and cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_profile.py
+      - name: Save profile cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/dark.svg profile/light.svg profile/stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update terminal profile stats'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
