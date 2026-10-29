@@ -7,13 +7,6 @@
   </a>
 </p>
 
-
-
-### what I'm about
-
--  Studying Intelligent Systems Engineering, **2025 Scholar** and **2026 #Mbassador** at [Maybank](https://www.maybank.com/en/index.page)
--  Previously interned as a **Game Developer & Business Analyst** at [PETRONAS](https://petronas.com/)
-
 ### currently building
 
 - SME Health Indicator and Evaluator for Loan Decision (SHIELD) that utilises Random Forest with SHapley Additive exPlanation (SHAP) translated with LLM for interpretability
