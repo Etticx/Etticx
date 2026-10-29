@@ -1,32 +1,48 @@
 
-                 25hMMM3
-             hhhhhHS9B9#M5As
-           3M53hHS9&@&BGhhMMGGSG
-         s5525MHS99&&BSHMS9B9##99#
-        5553MGSS#9&&&BSHG#999####9G
-       3hhHS####9BBB9999#BBBBBB##9
-       HHSSSSS#999GHHMG#9B&&BBB&&B
-       SS99GHMhMMh33333MG#9BBBB&@#
-        S9Sh5AXXA22AA23hMHGSSG9B&
-        5#MsXXA2A2AA23MhMHHMMMHB#5
-          hr23hGGMAXMMhhMHMMMMMS33
-          AsA52hM2sXMH3AXsX23hMhH5
-           ii;ssssiXhhh5rrX25533M2
-           riirX5sXA3h3M32AA25335
-           ;isA3AsAA2hMMMh3AA225
-            rsA22AAA25hMh35A2AAs
-             rssXrrsA2225555222X
-              sXXrrrsXX222553hhh
-                AXrrrXAA253hMh3h5
-                s25555533hMhh3hhMMH5
-             52issX253333333333hhhGB##Gh
-          2HGGhirsssXAA2255553333HBBBBBB99SM
-       hGHHGGGSMrirssXXXA2225553GBBBBBB9#9#SS##H3
-   AhHGSHHGGSSGSG2siiirsXXsA5hG9B9999BB99#####9####H
-2MHGGSGHGSSGSSGGS#SHh335hhMS#999999999B999#999###999##
-HGSSSSSSSSSSSSSS#S##S####h99#9########9B9###99##9999#9B
-GGSS#SSSSSSSSGGS##SSGGS##XH##99########999###999999B999
-#GS##SSSSSSSGGGS##SSGGSS#23#S99#########999###9999#9B9B
-#SG###SSGGGGGGGG###SGGSS#h2###9###########99##9B9999B9B
-##GS##SGGGGGSSGGS###SGSS#G2################99##9BBB99B9
-##GS##SGGGSSSSSSS###SGS###3##################999BBB99B9
+                             *
+                     **+==-;-+*x
+                #%xxX+=;;-=xX**X***x
+               @%*=;;:;=*xXX%%%#%=--. :-+
+             ##+,-::+X##@@@##@@+=, ;::-==-*xx
+           @#x=,-*XxXXxxx%%%@#%x-+%%@@%Xx+*xxXx
+          -;: ,:=*==**xxxXxXx*++=+*X##@@%%XXX%%Xx
+       ;=--+=-=**++*xX%%%%%XX*=;-+*XxxXXX+*xxXxXX
+       ===::=+*X%%#%XXXXX%##%*=-+*x*****+;*x;*=xx
+      *-x*=xX%##Xx-=**xXX##%@@XX**xX%%X%%#%*++**x
+     x;:=+*%#%#%Xx##@@@#%%Xx*x@@X%##%%%%%%x*xXx*x
+     x@xxX**xxXxX##@###x+*+===xXXX%%%XXx*x*X##%X
+     *=,X%XX*++*xXX**X=-===++=+xXxX#%%XxXxX%#%%x
+     %%X%#@@XXXx+=-*X++++++++++=*xxX%%%#@%x%%%Xx
+      x+x%@%***+;;++-++==-;:;;:;;-=*xx**++%#X%Xx
+       *x#@=,-;,:,  .,:;;;;::=xxXx******=;=###@
+        +X@+ ,,,..:;,:--;==+*Xx*;;-;;--=*+;X@@X:
+         *@* :++*%#%XxX*:-*x*+X**@@@@%*+*+-*@+ ,
+          @* =+**x%@@@@*.,X#X=#+*XX%%X%XXx++%:.-
+          ;*.=#@@-%@@@*=,,%@x=-=++-:.:-+*x*+*x++
+          ;+:=+;;=+++;,:,:X%xx=,...,:-+*++*+-x@*
+           x:,..:;:..:::.;x%%x%+  ,;-=+x*==+-XX+
+            --;,,::;*x:. ;+*-:+#*;::;--+++++++*
+            +--;:--+@=:#*=+%X-=%Xx*+---==+**=+*
+             ;--=-=@x.:x++**X%XxxXxxx=====*+-
+             ;===+@#=;,::=;;X****XXxx+==+++-=
+             +===+#*XXx#Xx+X++X%#%+++;-===-;*
+              ;--;;=+++--;-;-**+-====-==---;
+               ;--;;-:,:;-+*x=--=++++++==++-X
+                =-=+=;----==++==+++=====+x*+x
+                 ***+-;;;;::::-=+=--===xXX++*
+                   **=:::::::;---;;=+*xXx*++*x
+                   :+#X=;-;-=+===+*xXXx**+++*x+=X
+                   ;;+%#%XXXx**xxxxxx**++++***X+;x=:
+                 @:,---=xxXXXXxxx***+*+++++++***=*#=;=*
+              ==#. :---;--=++++++++++++++++++++--#@%X*+*xx+-
+           ;+x*x## .;-------=====+++++==+++=+=;:X@%XX%%XXXXXx+-;
+        ++=+XXxxX@x ,;--==--======+++==+++==-:;%@%XXXXXXXXXX%%#%x*=:
+     -+xx*+x**+*xX@x  ;--=======-=+==+=++=;,,=@@%XXxxXXxxxxxXXx++xX%x=-;;
+  -=+X#%*=*x*xxxxxX@%   ,:;----==++---;:,,:+#@#%XxxxxxXXxxxx+=-=*xxx%%xx*+=-
+-=+x%%*=-*Xx*xXXxx*X@@+.       ..,:.   ,-x@@@%XXxxxxxXXXxxxxXXX%%XXxx*xX%%X*
+*xxx+===*xx*+*xxx*+*x#@@@%+-;:. ;;..-x#@@@#XXxxxxxxxxXXXxxxxxxXXXxxxxxxxxXX%
+xxx**xxxxxx****xx**xxxX%@@@@@@@@@@@@@@@%%%x*xxxxxxxxxxXXXxxx***xXXx*xxxxxXXx
+xxxxxxxxxxxxxxxx*xxxXxxxxXX*X#%#@@ +@#X*xXx*xxxxxxxx**xXXXxxx**xXXXx*xxx*xXx
+xxxx***xxxxxxxx***xxxxxx*xx**xxx##  @%**xXx*xxxxxxxxx**xXXXxxx***xXXx*xxx*XX
+xxxxx**xxxx**xx****xxxxxxxx++xxx#@, #%*xxXX**xxxxxxxx***xXXXxxx***xxXxxxx**%
+xXxxxx**xx**********xXxx*x*+*x**%@= x@x**XXx*xxxxxxxxx****xXXxxx***XXxXXXx+X

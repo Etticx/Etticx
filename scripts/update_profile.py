@@ -92,10 +92,10 @@ def render(config, stats, portrait, theme):
         '<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="630" '
         'viewBox="0 0 1100 630" role="img" aria-labelledby="title desc">',
         f'<title id="title">{escape(config["name"])} — GitHub terminal profile</title>',
-        '<desc id="desc">ASCII portrait with a cat, biography, contact details, and public GitHub statistics. '
+        '<desc id="desc">ASCII portrait of Alif with parted hair and a smile, biography, contact details, and public GitHub statistics. '
         'Commit count is GitHub public indexed search results; stars exclude forked repositories.</desc>',
         '<style>text{font-family:Consolas,"Liberation Mono",Menlo,monospace;'
-        'font-size:14px;white-space:pre} .portrait{font-size:12px}</style>',
+        'font-size:14px;white-space:pre} .portrait{font-size:9px}</style>',
         f'<rect x="1" y="1" width="1098" height="628" rx="14" fill="{color["bg"]}" '
         f'stroke="{color["border"]}"/>',
         f'<path d="M15 1 H1085 Q1099 1 1099 15 V43 H1 V15 Q1 1 15 1" fill="{color["bar"]}"/>',
@@ -109,10 +109,10 @@ def render(config, stats, portrait, theme):
     text(550, 27, "Etticx / README", "muted", 'text-anchor="middle"')
     text(26, 76, "$ neofetch --github Etticx", "accent")
     lines = portrait.splitlines()
-    if len(lines) > 34 or any(len(line) > 55 for line in lines):
-        raise ValueError("ASCII portrait must fit within 55 columns and 34 rows")
+    if len(lines) > 48 or any(len(line) > 76 for line in lines):
+        raise ValueError("ASCII portrait must fit within 76 columns and 48 rows")
     for index, line in enumerate(lines):
-        text(28, 110 + index * 14, line, "portrait", 'class="portrait" xml:space="preserve"')
+        text(28, 102 + index * 9.5, line, "portrait", 'class="portrait" xml:space="preserve"')
 
     x = 464
 
