@@ -6,8 +6,8 @@
     ["University", "UiTM Shah Alam"],
     ["Degree", "Intelligent Systems Engineering"],
     ["Focus", "AI / ML / LLMs / AI Agents"],
-    ["Languages", "Python, Java, C++, JavaScript, SQL"],
-    ["Cloud", "GCP, Azure"]
+    ["Languages", "Python, Java, C++, JavaScript, SQL/NoSQL, R"],
+    ["Cloud", "AWS, Azure"]
   ],
   "now": [
     ["Building", "SHIELD / BioGuard"],
