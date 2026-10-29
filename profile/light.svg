@@ -63,8 +63,8 @@
 <text x="464" y="172" xml:space="preserve"><tspan fill="#953800">University</tspan><tspan fill="#57606a"> ..... </tspan><tspan fill="#0550ae">UiTM Shah Alam</tspan></text>
 <text x="464" y="194" xml:space="preserve"><tspan fill="#953800">Degree</tspan><tspan fill="#57606a"> ......... </tspan><tspan fill="#0550ae">Intelligent Systems Engineering</tspan></text>
 <text x="464" y="216" xml:space="preserve"><tspan fill="#953800">Focus</tspan><tspan fill="#57606a"> .......... </tspan><tspan fill="#0550ae">AI / ML / LLMs / AI Agents</tspan></text>
-<text x="464" y="238" xml:space="preserve"><tspan fill="#953800">Languages</tspan><tspan fill="#57606a"> ...... </tspan><tspan fill="#0550ae">Python, Java, C++, JavaScript, SQL</tspan></text>
-<text x="464" y="260" xml:space="preserve"><tspan fill="#953800">Cloud</tspan><tspan fill="#57606a"> .......... </tspan><tspan fill="#0550ae">GCP, Azure</tspan></text>
+<text x="464" y="238" xml:space="preserve"><tspan fill="#953800">Languages</tspan><tspan fill="#57606a"> ...... </tspan><tspan fill="#0550ae">Python, Java, C++, JavaScript, SQL/NoSQL, R</tspan></text>
+<text x="464" y="260" xml:space="preserve"><tspan fill="#953800">Cloud</tspan><tspan fill="#57606a"> .......... </tspan><tspan fill="#0550ae">AWS, Azure</tspan></text>
 <text x="464" y="306" fill="#116329" >Currently / previously</text>
 <text x="464" y="324" fill="#57606a" >──────────────────────────────────────────────────────────────────────</text>
 <text x="464" y="348" xml:space="preserve"><tspan fill="#953800">Building</tspan><tspan fill="#57606a"> ....... </tspan><tspan fill="#0550ae">SHIELD / BioGuard</tspan></text>
@@ -77,7 +77,7 @@
 <text x="464" y="532" fill="#116329" >GitHub / public stats</text>
 <text x="464" y="550" fill="#57606a" >──────────────────────────────────────────────────────────────────────</text>
 <text x="464" y="574" xml:space="preserve"><tspan fill="#953800">Repos / stars</tspan><tspan fill="#57606a"> .. </tspan><tspan fill="#0550ae">53 / 9</tspan></text>
-<text x="464" y="596" xml:space="preserve"><tspan fill="#953800">Commits / followers</tspan><tspan fill="#57606a"> .. </tspan><tspan fill="#0550ae">353 indexed / 6</tspan></text>
+<text x="464" y="596" xml:space="preserve"><tspan fill="#953800">Commits / followers</tspan><tspan fill="#57606a"> .. </tspan><tspan fill="#0550ae">361 indexed / 6</tspan></text>
 <text x="28" y="583" fill="#57606a" >on GitHub since Jun 2020</text>
 <rect x="28" y="602" width="30" height="9" fill="#ff7b72"/>
 <rect x="58" y="602" width="30" height="9" fill="#ffa657"/>
