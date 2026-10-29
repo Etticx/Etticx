@@ -59,7 +59,7 @@ class ProfileTests(unittest.TestCase):
                 self.assertIn("Game Dev & Business Analyst @ PETRONAS", text)
                 self.assertIn("SHIELD / BioGuard", text)
                 self.assertIn("indexed", text)
-                self.assertEqual(len(root.findall(".//{http://www.w3.org/2000/svg}text[@class='portrait']")), 32)
+                self.assertEqual(len(root.findall(".//{http://www.w3.org/2000/svg}text[@class='portrait']")), 48)
 
     def test_overflowing_bio_fails_instead_of_clipping(self):
         import json

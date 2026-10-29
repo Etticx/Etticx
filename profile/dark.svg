@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="630" viewBox="0 0 1100 630" role="img" aria-labelledby="title desc">
 <title id="title">Alif Asyraf — GitHub terminal profile</title>
-<desc id="desc">ASCII portrait with a cat, biography, contact details, and public GitHub statistics. Commit count is GitHub public indexed search results; stars exclude forked repositories.</desc>
-<style>text{font-family:Consolas,"Liberation Mono",Menlo,monospace;font-size:14px;white-space:pre} .portrait{font-size:12px}</style>
+<desc id="desc">ASCII portrait of Alif with parted hair and a smile, biography, contact details, and public GitHub statistics. Commit count is GitHub public indexed search results; stars exclude forked repositories.</desc>
+<style>text{font-family:Consolas,"Liberation Mono",Menlo,monospace;font-size:14px;white-space:pre} .portrait{font-size:9px}</style>
 <rect x="1" y="1" width="1098" height="628" rx="14" fill="#161b22" stroke="#30363d"/>
 <path d="M15 1 H1085 Q1099 1 1099 15 V43 H1 V15 Q1 1 15 1" fill="#21262d"/>
 <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
@@ -9,38 +9,54 @@
 <circle cx="68" cy="22" r="6" fill="#28c840"/>
 <text x="550" y="27" fill="#7d8590" text-anchor="middle">Etticx / README</text>
 <text x="26" y="76" fill="#7ee787" >$ neofetch --github Etticx</text>
-<text x="28" y="110" fill="#c9d1d9" class="portrait" xml:space="preserve">                 ..;rs;, ...</text>
-<text x="28" y="124" fill="#c9d1d9" class="portrait" xml:space="preserve">              .;A3h5sXsrrsAXi:.</text>
-<text x="28" y="138" fill="#c9d1d9" class="portrait" xml:space="preserve">            ,sAM&amp;@@@@@9S#B9SMri;.</text>
-<text x="28" y="152" fill="#c9d1d9" class="portrait" xml:space="preserve">         ,,.AS&amp;@@@@&amp;H559@@@@@Hr352r</text>
-<text x="28" y="166" fill="#c9d1d9" class="portrait" xml:space="preserve">         :r5#@@9G#5:iArshhG@B9X2@HAi</text>
-<text x="28" y="180" fill="#c9d1d9" class="portrait" xml:space="preserve">       ,  X&amp;BS9GG2sMh#5Asii5@GB3&amp;@X:</text>
-<text x="28" y="194" fill="#c9d1d9" class="portrait" xml:space="preserve">       ;Xs39X#&amp;hMA9MG&amp;h9A2GAhG@&amp;9@Sr,:.</text>
-<text x="28" y="208" fill="#c9d1d9" class="portrait" xml:space="preserve">        ;G@HG&amp;XAGMBB@BMS,HB93HB@@@@h3X,</text>
-<text x="28" y="222" fill="#c9d1d9" class="portrait" xml:space="preserve">        h@@#9GA99&amp;@@&amp;M2;H&amp;S9#&amp;@@#B&amp;S5.</text>
-<text x="28" y="236" fill="#c9d1d9" class="portrait" xml:space="preserve">        H9&amp;&amp;@9H&amp;#&amp;@@BGGB@9#9@&amp;@@9M@&amp;Hs</text>
-<text x="28" y="250" fill="#c9d1d9" class="portrait" xml:space="preserve">        A2B5&amp;&amp;@BB@@@@&amp;@@&amp;9&amp;@@&amp;@@@h9&amp;3X</text>
-<text x="28" y="264" fill="#c9d1d9" class="portrait" xml:space="preserve">        :.Mh#@@@@@@@@&amp;H@@@&amp;@5X@BBBB@X</text>
-<text x="28" y="278" fill="#c9d1d9" class="portrait" xml:space="preserve">          2S9@@@@@@#hA59@@@&amp;Xs5HAG&amp;H,is:</text>
-<text x="28" y="292" fill="#c9d1d9" class="portrait" xml:space="preserve">          .H#@@@@BMXX25G@9h#r  .. G3;.i#3AX;,::.</text>
-<text x="28" y="306" fill="#c9d1d9" class="portrait" xml:space="preserve">          ih###&amp;h:    ,h9MHA      Hiih&amp;@@@@@&amp;h,s.</text>
-<text x="28" y="320" fill="#c9d1d9" class="portrait" xml:space="preserve">          . i2HB5      ;5,:hr. .,5G M9XHB@&amp;B@9i;</text>
-<text x="28" y="334" fill="#c9d1d9" class="portrait" xml:space="preserve">              :S#2.   ,A:.,.Asi::&amp;MiB&amp;GMH##25BM .</text>
-<text x="28" y="348" fill="#c9d1d9" class="portrait" xml:space="preserve">               :;G9Ari;,  r     3&amp;@MGH#3:,sBBB:</text>
-<text x="28" y="362" fill="#c9d1d9" class="portrait" xml:space="preserve">                 :B#r   .::ii  39M@GiHH53Ai#@M.;iXi</text>
-<text x="28" y="376" fill="#c9d1d9" class="portrait" xml:space="preserve">              ,;2MB#Hr:..,r: iGG;rB@M;#@@A 3rrGhXA2r;</text>
-<text x="28" y="390" fill="#c9d1d9" class="portrait" xml:space="preserve">           :Ah3GH9@G;rX.;r;;hSX, sB@@G;G@H X: 5i3X:AGr</text>
-<text x="28" y="404" fill="#c9d1d9" class="portrait" xml:space="preserve">        .XG&amp;hs5Mh@@Sr ss.;5H2.:.,A9@&amp;@5 SB i, 92.;Mi5h</text>
-<text x="28" y="418" fill="#c9d1d9" class="portrait" xml:space="preserve">      ,AGS3;A9@5&amp;@@9hX i:   .is:i3S@@S.s#&amp;.;:.&amp;@h95i 5</text>
-<text x="28" y="432" fill="#c9d1d9" class="portrait" xml:space="preserve">    .rXr, .H@@#B@@@@A#3  :srr:  #HH@&amp;AM&amp;@&amp;,:;:@GB3HS;5;</text>
-<text x="28" y="446" fill="#c9d1d9" class="portrait" xml:space="preserve">   ,i:   s&amp;@@@@@@@@@A:Hh   .   MS;h@hr&amp;BS@i,:X&amp;BGH@h:H:</text>
-<text x="28" y="460" fill="#c9d1d9" class="portrait" xml:space="preserve">  .A2#B99@@@@@&amp;B&amp;@&amp;BMi 5Gr  . 59.,2@s5@@9@A ,3@@B@9M#3</text>
-<text x="28" y="474" fill="#c9d1d9" class="portrait" xml:space="preserve">  ,XrG@@@@@@@@@@&amp;&amp;@&amp;BX. iGh, X9, .X@A#@@S@H.:#@&amp;@@@@&amp;s</text>
-<text x="28" y="488" fill="#c9d1d9" class="portrait" xml:space="preserve">   r,rB@@@@@@@&amp;GG9@@@h:   2SH#:   rB@@@@S@9:sBSB@@@9@s</text>
-<text x="28" y="502" fill="#c9d1d9" class="portrait" xml:space="preserve">   :X 2&amp;@@@@@@&amp;H@@@@@#s    :h:    ;S@@@&amp;S@@22B@@9&amp;BB9,</text>
-<text x="28" y="516" fill="#c9d1d9" class="portrait" xml:space="preserve">    ri.2&amp;@@@@@@#M@@@@&amp;5i.         ;#@@@SS@Mi5@9GHh#@3</text>
-<text x="28" y="530" fill="#c9d1d9" class="portrait" xml:space="preserve">    :r,A3H9@&amp;B@@G9@9@@GX:.        iB@@@A5r,h9A5BH#@33</text>
-<text x="28" y="544" fill="#c9d1d9" class="portrait" xml:space="preserve">    .2.s@#AXG3B@@&amp;B;A##X::::,.:;i:iB@@@5,;ri,AB@@@#35</text>
+<text x="28" y="102.0" fill="#c9d1d9" class="portrait" xml:space="preserve"></text>
+<text x="28" y="111.5" fill="#c9d1d9" class="portrait" xml:space="preserve">                             *</text>
+<text x="28" y="121.0" fill="#c9d1d9" class="portrait" xml:space="preserve">                     **+==-;-+*x</text>
+<text x="28" y="130.5" fill="#c9d1d9" class="portrait" xml:space="preserve">                #%xxX+=;;-=xX**X***x</text>
+<text x="28" y="140.0" fill="#c9d1d9" class="portrait" xml:space="preserve">               @%*=;;:;=*xXX%%%#%=--. :-+</text>
+<text x="28" y="149.5" fill="#c9d1d9" class="portrait" xml:space="preserve">             ##+,-::+X##@@@##@@+=, ;::-==-*xx</text>
+<text x="28" y="159.0" fill="#c9d1d9" class="portrait" xml:space="preserve">           @#x=,-*XxXXxxx%%%@#%x-+%%@@%Xx+*xxXx</text>
+<text x="28" y="168.5" fill="#c9d1d9" class="portrait" xml:space="preserve">          -;: ,:=*==**xxxXxXx*++=+*X##@@%%XXX%%Xx</text>
+<text x="28" y="178.0" fill="#c9d1d9" class="portrait" xml:space="preserve">       ;=--+=-=**++*xX%%%%%XX*=;-+*XxxXXX+*xxXxXX</text>
+<text x="28" y="187.5" fill="#c9d1d9" class="portrait" xml:space="preserve">       ===::=+*X%%#%XXXXX%##%*=-+*x*****+;*x;*=xx</text>
+<text x="28" y="197.0" fill="#c9d1d9" class="portrait" xml:space="preserve">      *-x*=xX%##Xx-=**xXX##%@@XX**xX%%X%%#%*++**x</text>
+<text x="28" y="206.5" fill="#c9d1d9" class="portrait" xml:space="preserve">     x;:=+*%#%#%Xx##@@@#%%Xx*x@@X%##%%%%%%x*xXx*x</text>
+<text x="28" y="216.0" fill="#c9d1d9" class="portrait" xml:space="preserve">     x@xxX**xxXxX##@###x+*+===xXXX%%%XXx*x*X##%X</text>
+<text x="28" y="225.5" fill="#c9d1d9" class="portrait" xml:space="preserve">     *=,X%XX*++*xXX**X=-===++=+xXxX#%%XxXxX%#%%x</text>
+<text x="28" y="235.0" fill="#c9d1d9" class="portrait" xml:space="preserve">     %%X%#@@XXXx+=-*X++++++++++=*xxX%%%#@%x%%%Xx</text>
+<text x="28" y="244.5" fill="#c9d1d9" class="portrait" xml:space="preserve">      x+x%@%***+;;++-++==-;:;;:;;-=*xx**++%#X%Xx</text>
+<text x="28" y="254.0" fill="#c9d1d9" class="portrait" xml:space="preserve">       *x#@=,-;,:,  .,:;;;;::=xxXx******=;=###@</text>
+<text x="28" y="263.5" fill="#c9d1d9" class="portrait" xml:space="preserve">        +X@+ ,,,..:;,:--;==+*Xx*;;-;;--=*+;X@@X:</text>
+<text x="28" y="273.0" fill="#c9d1d9" class="portrait" xml:space="preserve">         *@* :++*%#%XxX*:-*x*+X**@@@@%*+*+-*@+ ,</text>
+<text x="28" y="282.5" fill="#c9d1d9" class="portrait" xml:space="preserve">          @* =+**x%@@@@*.,X#X=#+*XX%%X%XXx++%:.-</text>
+<text x="28" y="292.0" fill="#c9d1d9" class="portrait" xml:space="preserve">          ;*.=#@@-%@@@*=,,%@x=-=++-:.:-+*x*+*x++</text>
+<text x="28" y="301.5" fill="#c9d1d9" class="portrait" xml:space="preserve">          ;+:=+;;=+++;,:,:X%xx=,...,:-+*++*+-x@*</text>
+<text x="28" y="311.0" fill="#c9d1d9" class="portrait" xml:space="preserve">           x:,..:;:..:::.;x%%x%+  ,;-=+x*==+-XX+</text>
+<text x="28" y="320.5" fill="#c9d1d9" class="portrait" xml:space="preserve">            --;,,::;*x:. ;+*-:+#*;::;--+++++++*</text>
+<text x="28" y="330.0" fill="#c9d1d9" class="portrait" xml:space="preserve">            +--;:--+@=:#*=+%X-=%Xx*+---==+**=+*</text>
+<text x="28" y="339.5" fill="#c9d1d9" class="portrait" xml:space="preserve">             ;--=-=@x.:x++**X%XxxXxxx=====*+-</text>
+<text x="28" y="349.0" fill="#c9d1d9" class="portrait" xml:space="preserve">             ;===+@#=;,::=;;X****XXxx+==+++-=</text>
+<text x="28" y="358.5" fill="#c9d1d9" class="portrait" xml:space="preserve">             +===+#*XXx#Xx+X++X%#%+++;-===-;*</text>
+<text x="28" y="368.0" fill="#c9d1d9" class="portrait" xml:space="preserve">              ;--;;=+++--;-;-**+-====-==---;</text>
+<text x="28" y="377.5" fill="#c9d1d9" class="portrait" xml:space="preserve">               ;--;;-:,:;-+*x=--=++++++==++-X</text>
+<text x="28" y="387.0" fill="#c9d1d9" class="portrait" xml:space="preserve">                =-=+=;----==++==+++=====+x*+x</text>
+<text x="28" y="396.5" fill="#c9d1d9" class="portrait" xml:space="preserve">                 ***+-;;;;::::-=+=--===xXX++*</text>
+<text x="28" y="406.0" fill="#c9d1d9" class="portrait" xml:space="preserve">                   **=:::::::;---;;=+*xXx*++*x</text>
+<text x="28" y="415.5" fill="#c9d1d9" class="portrait" xml:space="preserve">                   :+#X=;-;-=+===+*xXXx**+++*x+=X</text>
+<text x="28" y="425.0" fill="#c9d1d9" class="portrait" xml:space="preserve">                   ;;+%#%XXXx**xxxxxx**++++***X+;x=:</text>
+<text x="28" y="434.5" fill="#c9d1d9" class="portrait" xml:space="preserve">                 @:,---=xxXXXXxxx***+*+++++++***=*#=;=*</text>
+<text x="28" y="444.0" fill="#c9d1d9" class="portrait" xml:space="preserve">              ==#. :---;--=++++++++++++++++++++--#@%X*+*xx+-</text>
+<text x="28" y="453.5" fill="#c9d1d9" class="portrait" xml:space="preserve">           ;+x*x## .;-------=====+++++==+++=+=;:X@%XX%%XXXXXx+-;</text>
+<text x="28" y="463.0" fill="#c9d1d9" class="portrait" xml:space="preserve">        ++=+XXxxX@x ,;--==--======+++==+++==-:;%@%XXXXXXXXXX%%#%x*=:</text>
+<text x="28" y="472.5" fill="#c9d1d9" class="portrait" xml:space="preserve">     -+xx*+x**+*xX@x  ;--=======-=+==+=++=;,,=@@%XXxxXXxxxxxXXx++xX%x=-;;</text>
+<text x="28" y="482.0" fill="#c9d1d9" class="portrait" xml:space="preserve">  -=+X#%*=*x*xxxxxX@%   ,:;----==++---;:,,:+#@#%XxxxxxXXxxxx+=-=*xxx%%xx*+=-</text>
+<text x="28" y="491.5" fill="#c9d1d9" class="portrait" xml:space="preserve">-=+x%%*=-*Xx*xXXxx*X@@+.       ..,:.   ,-x@@@%XXxxxxxXXXxxxxXXX%%XXxx*xX%%X*</text>
+<text x="28" y="501.0" fill="#c9d1d9" class="portrait" xml:space="preserve">*xxx+===*xx*+*xxx*+*x#@@@%+-;:. ;;..-x#@@@#XXxxxxxxxxXXXxxxxxxXXXxxxxxxxxXX%</text>
+<text x="28" y="510.5" fill="#c9d1d9" class="portrait" xml:space="preserve">xxx**xxxxxx****xx**xxxX%@@@@@@@@@@@@@@@%%%x*xxxxxxxxxxXXXxxx***xXXx*xxxxxXXx</text>
+<text x="28" y="520.0" fill="#c9d1d9" class="portrait" xml:space="preserve">xxxxxxxxxxxxxxxx*xxxXxxxxXX*X#%#@@ +@#X*xXx*xxxxxxxx**xXXXxxx**xXXXx*xxx*xXx</text>
+<text x="28" y="529.5" fill="#c9d1d9" class="portrait" xml:space="preserve">xxxx***xxxxxxxx***xxxxxx*xx**xxx##  @%**xXx*xxxxxxxxx**xXXXxxx***xXXx*xxx*XX</text>
+<text x="28" y="539.0" fill="#c9d1d9" class="portrait" xml:space="preserve">xxxxx**xxxx**xx****xxxxxxxx++xxx#@, #%*xxXX**xxxxxxxx***xXXXxxx***xxXxxxx**%</text>
+<text x="28" y="548.5" fill="#c9d1d9" class="portrait" xml:space="preserve">xXxxxx**xx**********xXxx*x*+*x**%@= x@x**XXx*xxxxxxxxx****xXXxxx***XXxXXXx+X</text>
 <text x="464" y="106" fill="#7ee787" >alif@etticx</text>
 <text x="464" y="124" fill="#7d8590" >──────────────────────────────────────────────────────────────────────</text>
 <text x="464" y="150" xml:space="preserve"><tspan fill="#ffa657">Name</tspan><tspan fill="#7d8590"> ........... </tspan><tspan fill="#a5d6ff">Alif Asyraf</tspan></text>
