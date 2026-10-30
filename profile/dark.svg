@@ -77,7 +77,7 @@
 <text x="464" y="532" fill="#7ee787" >GitHub / public stats</text>
 <text x="464" y="550" fill="#7d8590" >──────────────────────────────────────────────────────────────────────</text>
 <text x="464" y="574" xml:space="preserve"><tspan fill="#ffa657">Repos / stars</tspan><tspan fill="#7d8590"> .. </tspan><tspan fill="#a5d6ff">53 / 9</tspan></text>
-<text x="464" y="596" xml:space="preserve"><tspan fill="#ffa657">Commits / followers</tspan><tspan fill="#7d8590"> .. </tspan><tspan fill="#a5d6ff">361 indexed / 6</tspan></text>
+<text x="464" y="596" xml:space="preserve"><tspan fill="#ffa657">Commits / followers</tspan><tspan fill="#7d8590"> .. </tspan><tspan fill="#a5d6ff">366 indexed / 6</tspan></text>
 <text x="28" y="583" fill="#7d8590" >on GitHub since Jun 2020</text>
 <rect x="28" y="602" width="30" height="9" fill="#ff7b72"/>
 <rect x="58" y="602" width="30" height="9" fill="#ffa657"/>
@@ -85,5 +85,5 @@
 <rect x="118" y="602" width="30" height="9" fill="#7ee787"/>
 <rect x="148" y="602" width="30" height="9" fill="#79c0ff"/>
 <rect x="178" y="602" width="30" height="9" fill="#d2a8ff"/>
-<text x="225" y="611" fill="#7d8590" >updated 2026-10-29</text>
+<text x="225" y="611" fill="#7d8590" >updated 2026-10-30</text>
 </svg>
