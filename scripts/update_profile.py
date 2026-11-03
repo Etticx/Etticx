@@ -95,7 +95,11 @@ def render(config, stats, portrait, theme):
         '<desc id="desc">ASCII portrait of Alif with parted hair and a smile, biography, contact details, and public GitHub statistics. '
         'Commit count is GitHub public indexed search results; stars exclude forked repositories.</desc>',
         '<style>text{font-family:Consolas,"Liberation Mono",Menlo,monospace;'
-        'font-size:14px;white-space:pre} .portrait{font-size:9px}</style>',
+        'font-size:14px;white-space:pre} .portrait{font-size:9px;clip-path:inset(0 100% 0 0);'
+        'animation:type .35s steps(38,end) forwards}'
+        # Replays on every page load: each portrait row "types" in, top to bottom.
+        '@keyframes type{to{clip-path:inset(0 0 0 0)}}'
+        '@media (prefers-reduced-motion:reduce){.portrait{animation:none;clip-path:none}}</style>',
         f'<rect x="1" y="1" width="1098" height="628" rx="14" fill="{color["bg"]}" '
         f'stroke="{color["border"]}"/>',
         f'<path d="M15 1 H1085 Q1099 1 1099 15 V43 H1 V15 Q1 1 15 1" fill="{color["bar"]}"/>',
@@ -112,7 +116,7 @@ def render(config, stats, portrait, theme):
     if len(lines) > 48 or any(len(line) > 76 for line in lines):
         raise ValueError("ASCII portrait must fit within 76 columns and 48 rows")
     for index, line in enumerate(lines):
-        text(28, 102 + index * 9.5, line, "portrait", 'class="portrait" xml:space="preserve"')
+        text(28, 102 + index * 9.5, line, "portrait", f'class="portrait" style="animation-delay:{index * 0.045:.3f}s" xml:space="preserve"')
 
     x = 464
 
