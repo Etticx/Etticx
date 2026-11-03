@@ -10,8 +10,7 @@
 ### currently building
 
 - SME Health Indicator and Evaluator for Loan Decision (SHIELD) that utilises Random Forest with SHapley Additive exPlanation (SHAP) translated with LLM for interpretability
-- BioGuard, a Computer Vision app that identifies specific invasive plants and connect photo reports to ecological review, work orders, and restoration follow-Up, this focuses primarily on township areas.
-
+  
 ### stats, because why not^^
 
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Etticx&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"><i>currently probably fixing a bug I introduced ten minutes ago</i></p>
