@@ -34,14 +34,5 @@
 </p>
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="My GitHub contributions in a 3D night rainbow skyline"
-    width="100%"
-  />
-</p>
-
-
-<p align="center">
   <img src="./profile/mai-sakuta.gif" width="400" alt="Mai Sakurajima and Sakuta Azusagawa by the sea" />
 </p>
