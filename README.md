@@ -41,3 +41,7 @@
   />
 </p>
 
+
+<p align="center">
+  <img src="./profile/mai-sakuta.gif" width="400" alt="Mai Sakurajima and Sakuta Azusagawa by the sea" />
+</p>
