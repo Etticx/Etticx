@@ -11,7 +11,7 @@
 
 - SME Health Indicator and Evaluator for Loan Decision (SHIELD) that utilises Random Forest with SHapley Additive exPlanation (SHAP) translated with LLM for interpretability
   
-### stats, because why not right
+### stats, because why not right ^^
 
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Etticx&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"><i>currently probably fixing a bug I introduced ten minutes ago</i></p>
 
